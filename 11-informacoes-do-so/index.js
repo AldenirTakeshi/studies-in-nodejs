@@ -14,4 +14,3 @@ console.log("Quantidade de CPUS do SO: ", cpus.length);
 const memory = os.totalmem()
 
 console.log("Quantidade de Memoria do SO: ", memory/1024/1024/1024)
-
